@@ -1,0 +1,76 @@
+@import url(https://fonts.googleapis.com/earlyaccess/nicomoji.css);
+
+@import url("https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c");
+
+header {
+  height: 46px;
+  background-color: aliceblue;
+  color: rgb(149, 198, 198);
+}
+.title {
+  text-align: center;
+  text-shadow: 2px 2px 2px rgb(162, 162, 175);
+}
+.first-view {
+}
+.welcomeimg {
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+}
+
+.sentaku {
+  text-align: center;
+  font-family: "Nico Moji";
+  margin-top: 20px;
+  color: rgb(230, 230, 230);
+}
+
+.diet {
+  font-size: 30px;
+  padding-left: 50px;
+}
+
+body {
+  background-color: rgb(140, 171, 184);
+}
+
+.profile {
+  margin-top: 200px;
+  text-align: center;
+  font-family: "M PLUS Rounded 1c", sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+.profile-title {
+  font-size: 40px;
+  font-family: "M PLUS Rounded 1c", sans-serif;
+  font-weight: bold;
+}
+
+.profile-name {
+  font-size: 30px;
+  margin-top: 20px;
+  color: aliceblue;
+}
+
+.profile-subtitle {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.syumi-images {
+  width: 250px;
+  border-radius: 10px;
+}
+
+.profile-sentance {
+  color: rgb(242, 191, 191);
+}
+
+.syumi-images2 {
+  height: 160px;
+  border-radius: 10px;
+}
